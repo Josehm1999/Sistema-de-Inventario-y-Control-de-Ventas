@@ -1,2 +1,2 @@
-# Sistema_Ventas_SyC
-Sistema de ventas creado como proyecto final para el curso de desarrollo de aplicaciones empresariales con .NET
+# Sistema-de-Inventario-y-Control-de-Ventas
+Sistema de inventario y control de ventas de alimentos de la tienda de abarrotes SyC  para el curso Integrador I: Sistemas-Software como proyecto Final: 
